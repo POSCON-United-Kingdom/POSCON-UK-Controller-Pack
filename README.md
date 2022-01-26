@@ -18,6 +18,6 @@ How to load it:
 3. Load the desired sector file 
 4. Zoom in to the airport and enjoy!
 
-I know that at the moment are not a lot, but I have to handpick everything regarding an airport from the sector file and I take up to an hour to create just an airport, and, unfortunately, this isn’t my real life job and I don’t have a lot of free time :) If you want to speed up the creation, please consider helping me! Thank you!
+I know that at the moment the airports are not a lot, but I have to handpick everything regarding an airport from the sector file and I take up to an hour to create just an airport, and, unfortunately, this isn’t my real life job and I don’t have a lot of free time :) If you want to speed up the creation, please consider helping me! Thank you!
 
 Should you have any question, report or just want to help me, feel free to drop me a DM on Discord (Username: Filippo#8739)
