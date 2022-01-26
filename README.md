@@ -1,4 +1,4 @@
-I created the POSCON UK Controller pack to re-create basically the Euroscope profiles (to everyone who comes here from VATSIM). At the moment only POSCON UK provide this type of sectors :)
+I created the POSCON UK Controller pack to re-create basically the Euroscope profiles (to everyone who comes here from VATSIM). 
 
 For now done:
 
