@@ -8,7 +8,7 @@ For now done:
 
 3. Essex (EGGS Stansted, EGGW Luton and Cambridge)
 
-4. EGGC Manchester
+4. EGCC Manchester
 
 
 How to load it:
