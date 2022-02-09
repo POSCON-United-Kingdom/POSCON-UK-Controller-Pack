@@ -10,6 +10,8 @@ For now done:
 
 4. EGCC Manchester
 
+5. EGPH Edinburgh
+
 
 How to load it:
 
